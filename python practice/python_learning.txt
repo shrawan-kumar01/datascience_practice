@@ -1,0 +1,13 @@
+"""if we want to print multiline line print statement than we need to use triple double quote / single quote. """
+
+
+print("""hi i nan shreawan 
+he is a good boy """)
+
+
+
+json_dictonaries = json.dumps(python_dictonarie,sort_keys = True , indent=40)
+
+
+"to eun python program in background :~   pythonw ./main.py" or 
+                                    :~ python.exe ./main.py
